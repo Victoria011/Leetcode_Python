@@ -1,0 +1,2 @@
+# python_solution
+Leetcode 
